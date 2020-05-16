@@ -1,4 +1,5 @@
 public static void main(String[] arg){
 	String str = "wjq";
 	System.out.println(str);
+	System.out.println();
 }
